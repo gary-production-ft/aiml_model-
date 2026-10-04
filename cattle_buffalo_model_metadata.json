@@ -1,0 +1,12 @@
+{
+  "class_mapping": {
+    "White bufflo": "Buffalo",
+    "Asian buffalo": "Buffalo",
+    "Wild bufflo": "Buffalo",
+    "Brahman cow": "Cattle",
+    "Holstein": "Cattle",
+    "Charolais": "Cattle"
+  },
+  "feature_names": [],
+  "model_type": "RandomForestClassifier"
+}
